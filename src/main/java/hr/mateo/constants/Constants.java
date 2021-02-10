@@ -1,7 +1,7 @@
 package hr.mateo.constants;
 /**
  * Interface for constants
- * Note: If you change any constant, you need to recompile your program and restart Kafka cosumer/producer
+ * Note: If you change any constant, you need to recompile your program and restart Kafka consumer/producer
  */
 public interface Constants {
     String INPUT_FILE_PATH = ""; // Path to input .csv file
